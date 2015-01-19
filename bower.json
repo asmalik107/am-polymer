@@ -1,8 +1,9 @@
 {
-  "name": "am-polymer",
-  "private": true,
-  "dependencies": {
-    "jquery": "~2.1.1",
-    "modernizr": "~2.8.1"
-  }
+	"name": "am-polymer",
+	"private": true,
+	"dependencies": {
+		"jquery": "~2.1.1",
+		"modernizr": "~2.8.1",
+		"polymer": "~0.5.2"
+	}
 }
